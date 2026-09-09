@@ -1,4 +1,3 @@
-# Privacy Policy for Soundrise
 
 **Last updated: 8 September 2026**
 
