@@ -1,4 +1,6 @@
-
+---
+Privacy Policy
+---
 **Last updated: 8 September 2026**
 
 ## Summary
