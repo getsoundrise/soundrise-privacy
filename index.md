@@ -1,4 +1,6 @@
-
+---
+title: Soundrise
+---
 **Your morning playlist. Ready when you are.**
 
 Soundrise is an alarm for iPhone that has your music ready
