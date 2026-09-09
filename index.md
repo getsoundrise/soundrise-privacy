@@ -1,5 +1,5 @@
 ---
-title: Soundrise
+Soundrise
 ---
 **Your morning playlist. Ready when you are.**
 
