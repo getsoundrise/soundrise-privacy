@@ -1,5 +1,5 @@
 ---
-Privacy Policy
+title: Privacy Policy
 ---
 **Last updated: 8 September 2026**
 
