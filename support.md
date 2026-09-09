@@ -1,5 +1,3 @@
-# Support
-
 Questions, problems, or feedback? Email
 **getsoundrise@gmail.com** and I'll get back to you.
 
